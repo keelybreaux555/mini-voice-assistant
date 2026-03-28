@@ -6,10 +6,13 @@ This is a simple voice assistant built in Python. It can listen to your voice, r
 ## Features
 - Listen to microphone input
 - Convert speech to text using Google Speech Recognition
-- Print recognized text in the terminal
-- Adjustable for background noise
-![Mini Voice Assistant Demo](demo_screenshot.png)
-*Program running and converting speech to text in Terminal.*
+- Recognizes voice commands
+- Responds to commands (greetings, time, web actions)
+- Opens websites like Google and YouTube
+- Continuous listening until user says "stop"
+
+## Demo
+![Voice Assistant Demo](voice-assistant-v2.png)
 
 ## How to Run
 1. Make sure **Python 3** is installed on your computer.
